@@ -50,4 +50,4 @@ Recursos CSS presentes no projeto:
 
 <h2 id="demo">🌈 Demonstração</h2>
 
-Você pode acessar ao resultado final do projeto [clicando aqui](https://usuariodaniel.github.io/Hbo-Max-Clone/)
+Você pode acessar ao resultado final do projeto [clicando aqui](https://usuariodaniel.github.io/hbo-max-clone/)
